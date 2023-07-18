@@ -1,9 +1,8 @@
-# Rocketium Analytics Dashboard
+# Analytics Dashboard
 
-Rocketium built an in-house creative analytics engine which provides insights into the performance and characteristics of your ad creatives through Dashboards with interractive widgets.
+Our company has an built an in-house creative analytics engine which provides insights into the performance and characteristics of your ad creatives through Dashboards with interractive widgets.
 
-Today's problem statement is around building a similar experience end-to-end using some sample data.
-This problem is primarily a frontend problem, where you will have to design the data structure to store and display dashboards and widgets and build a UI to display the same.
+This problem statement is around building a similar experience end-to-end using some sample data. It is primarily a frontend problem, where you will have to design the data structure to store and display dashboards and widgets and build a UI to display the same.
 
 We will strictly be using React and Typescript for this project.
 
