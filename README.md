@@ -7,16 +7,14 @@ This problem is primarily a frontend problem, where you will have to design the 
 
 We will strictly be using React and Typescript for this project.
 
-[image][]
-
 ## High Level Design
-A creative analytics tool has 3 main components:
+A creative analytics tool has 2 main components:
 
 1. Dashboards
 2. Widgets
-3. Data
 
 We will be defining a high level structure of our application model and then later build out a simple version of it.
+Inspiration image in `/public/design.png`
 
 More information will be shared by the interviewer.
 
