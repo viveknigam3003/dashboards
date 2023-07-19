@@ -71,3 +71,14 @@
   }
 }
 ```
+
+## FE Store
+
+```JSON
+{
+  "dashboard": {
+    "widgets": [], // Same as API 2 response
+    "data": {}, // Same as API 3 response (keyed by id)
+  }
+}
+```

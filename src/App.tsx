@@ -1,16 +1,18 @@
-import "./App.css";
-import rocketiumLogo from "./assets/logo.png";
+import { styled } from "styled-components";
+import { Header } from "./components/Header";
+
+const Wrapper = styled.div`
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+`
 
 function App() {
   return (
-    <>
-      <div>
-        <a href="https://rocketium.com̦" target="_blank">
-          <img src={rocketiumLogo} className="logo" alt="React logo" />
-        </a>
-      </div>
-      <h2>Analytics Dashboards</h2>
-    </>
+    <Wrapper>
+      <Header title="Analytics" icon="" />
+    </Wrapper>
   );
 }
 
