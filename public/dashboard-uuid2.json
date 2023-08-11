@@ -1,0 +1,32 @@
+{
+  "widgets": [
+    {
+      "type": "card",
+      "data": {
+        "total": 12222,
+        "value": 333,
+        "valueSign": "negative"
+      },
+      "metaData": {
+        "titleLable": "Total sales",
+        "aggregationLable": "Sum"
+      },
+      "uuid": "uuid2",
+      "someRequestFormat": {
+        "column": "sales",
+        "aggreation": "sum",
+        "key": "totalSales",
+        "timeFrame": {
+          "start": "timestamp",
+          "end": "timestamp"
+        }
+      },
+      "positioning": {
+        "x": 3,
+        "y": 1,
+        "width": 4,
+        "height": 2
+      }
+    }
+  ]
+}

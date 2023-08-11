@@ -1,0 +1,19 @@
+{
+  "dashboard": [
+    {
+      "dashboardId": "uuid1",
+      "someData": "",
+      "name": "Dashboard 1"
+    },
+    {
+      "dashboardId": "uuid2",
+      "someData": "",
+      "name": "Dashboard 2"
+    },
+    {
+      "dashboardId": "uuid3",
+      "someData": "",
+      "name": "Dashboard 3"
+    }
+  ]
+}
